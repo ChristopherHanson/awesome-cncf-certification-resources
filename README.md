@@ -1,6 +1,26 @@
 # Awesome CNCF Certification Resources
 
-A curated list of free, commercial, and community resources for CNCF certification candidates.
+A curated list of free, commercial, and community resources for CNCF certification candidates inspired by the "awesome"
+list format. This resource hub is designed to help candidates prepare for CNCF certifications with a variety of learning
+materials, including official documentation, video courses, mock exams, and community-driven content.
+
+## Table of Contents
+
+- [KCNA](#kcna-kubernetes-and-cloud-native-associate)
+- [KCSA](#kcsa-kubernetes-and-cloud-native-security-associate)
+- [CKAD](#ckad-certified-kubernetes-application-developer)
+- [CKA](#cka-certified-kubernetes-administrator)
+- [CKS](#cks-certified-kubernetes-security-specialist)
+- [CCA](#cca-cilium-certified-associate)
+- [ICA](#ica-istio-certified-associate)
+- [CAPA](#capa-certified-argo-project-associate)
+- [CBA](#cba-certified-backstage-associate)
+- [CGOA](#cgoa-certified-gitops-associate)
+- [CNPA](#cnpa-cloud-native-platform-engineering-associate)
+- [CNPE](#cnpe-cloud-native-platform-engineering)
+- [KCA](#kca-kyverno-certified-associate)
+- [OTCA](#otca-opentelemetry-certified-associate)
+- [PCA](#pca-prometheus-certified-associate)
 
 
 ## Kubernetes
