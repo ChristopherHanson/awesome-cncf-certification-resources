@@ -32,6 +32,7 @@ These general resources are great for preparing for any of the Kubernetes-based 
 - [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) - Free interactive tutorial covering Kubernetes fundamentals.
 - [Kubernetes Tasks](https://kubernetes.io/docs/tasks/) - Free Kubernetes tasks tutorials build muscle memory through practice.
 - [Introduction to Kubernetes (LFS158)](https://www.edx.org/course/introduction-to-kubernetes) - Free edX video course introducing Kubernetes fundamentals.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, fully self hosted and local.
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Community-driven walkthrough strengthening cluster fundamentals through manual, repeatable build exercises.
 - [Kube By Example](https://kubebyexample.com/) - Community examples repository demonstrates patterns for deployments, services, probes, config.
 - [kubectl Quick Reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/) - list of commonly used `kubectl` commands and flags (can be accessed during the exam).
