@@ -82,6 +82,7 @@ Associate exams are multiple-choice exams aimed at beginner-level candidates.
 - [Kubernetes Certification Exam Environment Preview](https://youtu.be/9UqkWcdy140) - Short video shows an example of the exam environment for the practical exams.
 - [KllrShll](https://killer.sh) - (free with exam registration) practical scenarios for the CKAD, CKA, CKS, CNPE, and LFCS exams.
 - [KillrCoda](https://killercoda.com/) - Interactive scenarios for CKAD, CKA, CKS, and many other tools.
+- [The Work Gym CKA and CKAD prep](https://theworkgym.com/certifications/kubernetes-cka-ckad/) - The exam domains and weights mapped to hands-on Kubernetes lessons in a browser cluster; first unit free.
 
 
 #### CKAD (Certified Kubernetes Application Developer)
